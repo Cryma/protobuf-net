@@ -1,0 +1,11 @@
+{
+	"name": "de.cryma.protobuf-net",
+	"displayName": "Protobuf.Net",
+	"version": "2.4.0",
+	"unity": "2018.1",
+	"description": "Protocol Buffers library for idiomatic .NET",
+	"category": "Serializer",
+	"keywords": [
+		"serializer"
+	]
+}
